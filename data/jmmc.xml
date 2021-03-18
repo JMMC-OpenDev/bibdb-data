@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmmc>
+    <query>full:("jmmc" or "mariotti")</query>
+    <group tag="Amdlib">
+    
+        <description>list of JMMC authored publications associated to Amdlib</description>
+        <!-- Interferometric data reduction with AMBER/VLTI. Principle, estimators, and illustration -->
+        <bibcode>2007A&amp;A...464...29T</bibcode>
+        <!--Optimised data reduction for the AMBER/VLTI instrument / Chelli, A., Utrera, O. H., Duvert, G.-->
+        <bibcode>2009A&amp;A...502..705C</bibcode>
+        <!--The third version of the AMBER data reduction software / Malbet, Fabien, Duvert, Gilles, Millour, Florentin A., Le Bouquin, Jean-Baptiste, Mella, Guillaume, Halipré, Luc, Chelli, Alain, Lafrasse, Sylvain, Altariba, Evelyne, Zins, Gérard-->
+        <bibcode>2010SPIE.7734E..4CM</bibcode>
+        <!--AMBER: Data Reduction Software-->
+        <bibcode>2010ascl.soft10003M</bibcode>
+    </group>
+    <group tag="AMHRA">
+    </group>
+    <group tag="Aspro">
+        <description>list of JMMC authored publications associated to Aspro</description>
+        <!--A new GUI system for ASPRO-->
+        <bibcode>2004SPIE.5496..582M</bibcode>
+        <!--ASPRO-VLTI: a JMMC software dedicated to the preparation of VLTI observations-->
+        <bibcode>2004SPIE.5491..611D</bibcode>
+        <!--ASPRO2: A Modern Tool to Prepare Optical Interferometry Observations / Duvert, G., Bourgès, L., Mella, G., Lafrasse, S.-->
+        <bibcode>2011ASPC..442..489D</bibcode>
+        <!--ASPRO 2: Astronomical Software to PRepare Observations-->
+        <bibcode>2013ascl.soft10005B</bibcode>
+        <!--ASPRO2: get ready for VLTI's instruments GRAVITY and MATISSE / Bourgès, L., Duvert, G.-->
+        <bibcode>2016SPIE.9907E..11B</bibcode>
+    </group>
+    <group tag="JMDC">
+        <description>list of JMMC authored publications associated to JSDC</description>
+        <!-- VizieR On-line Data Catalog: II/345. Originally published in: JMMC center (2016) -->
+        <bibcode>2016yCat.2345....0D</bibcode>
+    </group>
+    <group tag="JSDC">
+        <description>list of JMMC authored publications associated to JSDC</description>
+        <!--Building the 'JMMC Stellar Diameters Catalog' using SearchCal / Lafrasse, Sylvain, Mella, Guillaume, Bonneau, Daniel, Duvert, Gilles, Delfosse, Xavier, Chesneau, Olivier, Chelli, Alain-->
+        <bibcode>2010SPIE.7734E..4EL</bibcode>
+        <!--VizieR Online Data Catalog: JMMC Stellar Diameters Catalogue - JSDC (Lafrasse+, 2010) / Lafrasse, S., Mella, G., Bonneau, D., Duvert, G., Delfosse, X., Chelli, A.-->
+        <bibcode>2010yCat.2300....0L</bibcode>
+        <!--VizieR Online Data Catalog: JMMC Stellar Diameters Catalogue - JSDC. Version 2 (Bourges+, 2017) / Bourges, L., Mella, G., Lafrasse, S., Duvert, G., Chelli, A., Le Bouquin, J. -B., Delfosse, X., Chesneau, O.-->
+        <bibcode>2017yCat.2346....0B</bibcode>
+    </group>
+    <group tag="LITpro">
+        <description>list of JMMC authored publications associated to LITpro</description>
+        <!--LITpro: a model fitting software for optical interferometry / Tallon-Bosc, I., Tallon, M., Thiébaut, E., Béchet, C., Mella, G., Lafrasse, S., Chesneau, O., Domiciano de Souza, A., Duvert, G., Mourard, D., Petrov, R., Vannier, M.-->
+        <bibcode>2008SPIE.7013E..1JT</bibcode>
+        <!--Model fitting tutorial-->
+        <bibcode>2007NewAR..51..697T</bibcode>
+    </group>
+    <group tag="MidiDRS">
+        <description>list of JMMC authored publications associated to MidiDRS</description>
+    </group>
+    <group tag="oidb">
+        <description>list of JMMC authored publications associated to oidb</description>
+        <!--A global database for optical interferometry-->
+<bibcode>2014SPIE.9146E..0OH</bibcode>
+        <!--First year report of the Optical Interferometry DataBase / Haubois, Xavier, Mella, Guillaume, Duvert, Gilles, Le Bouquin, J. B., Bourgès, Laurent, Farrington, Chris, ten Brummelaar, Theo, Benisty, Myriam, Mourard, Denis-->
+        <bibcode>2016SPIE.9907E..3VH</bibcode>
+        <!--What would be gained by implementing a DMP on the OIDB service already in production since 2015? Never too late for the DMP?-->
+        <bibcode>2017lisa.confP..10M</bibcode>
+    </group>
+    <group tag="OIFitsExplorer">
+        <description>list of JMMC authored publications associated to OIFitsExplorer</description>
+    </group>
+    <group tag="PNDRS">
+        <description>list of JMMC authored publications associated to PNDRS</description>
+        <!-- PIONIER: a 4-telescope visitor instrument at VLTI -->
+        <bibcode>2011A&amp;A...535A..67L</bibcode>
+    </group>
+    <group tag="SearchCal">
+        <description>list of JMMC authored publications associated to SearchCal</description>
+        <!--SearchCal: a virtual observatory tool for searching calibrators in optical long baseline interferometry. I. The bright object case / Bonneau, D., Clausse, J. -M., Delfosse, X., Mourard, D., Cetre, S., Chelli, A., Cruzalèbes, P., Duvert, G., Zins, G.-->
+        <bibcode>2006A&amp;A...456..789B</bibcode>
+        <!--SearchCal: a Virtual Observatory tool for searching calibrators in optical long-baseline interferometry. II. The faint-object case / Bonneau, D., Delfosse, X., Mourard, D., Lafrasse, S., Mella, G., Cetre, S., Clausse, J. -M., Zins, G.-->
+        <bibcode>2011A&amp;A...535A..53B</bibcode>
+        <!--On the use of the Virtual Observatory to select calibrators for phase-referenced astrometry of exoplanet-host stars / Beust, H., Bonneau, D., Mourard, D., Lafrasse, S., Mella, G., Duvert, G., Chelli, A.-->
+        <bibcode>2011MNRAS.414..108B</bibcode>
+        <!--VizieR Online Data Catalog: Calibrator of exoplanet-host stars (Beust+, 2011) / Beust, H., Bonneau, D., Mourard, D., Lafrasse, S., Mella, G., Duvert, G., Chelli, A.-->
+        <bibcode>2012yCat..74140108B</bibcode>
+        <!--The JMMC Stellar Diameters Catalog v2 (JSDC): A New Release Based on SearchCal Improvements-->
+        <bibcode>2014ASPC..485..223B</bibcode>
+        <!--A robust approach to estimate stellar angular diameters from photometry and spectral type-->
+        <bibcode>2014SPIE.9146E..2ZC</bibcode>
+        <!--Pseudomagnitudes and differential surface brightness: Application to the apparent diameter of stars / Chelli, Alain, Duvert, Gilles, Bourgès, Laurent, Mella, Guillaume, Lafrasse, Sylvain, Bonneau, Daniel, Chesneau, Olivier-->
+        <bibcode>2016A&amp;A...589A.112C</bibcode>
+    </group>
+    <group tag="SUV">
+        <description>list of JMMC authored publications associated to SUV</description>
+    </group>
+    <group tag="Wisard">
+        <description>list of JMMC authored publications associated to Wisard</description>
+    </group>
+    
+    <group tag="bibdb">
+        <description>list of JMMC authored publications associated to the Olbin bibdb maintained by JMMC</description>
+        <!--A publication database for optical long baseline interferometry / Malbet, Fabien, Mella, Guillaume, Lawson, Peter, Taillifet, Esther, Lafrasse, Sylvain-->
+        <bibcode>2010SPIE.7734E..3FM</bibcode>
+    </group>
+    
+    
+    <group tag="tbd">
+        <description>Publications to clean and sort out of any JMMC product.</description>
+        <!--SAMP App Launcher: An On-Demand VO Application Starter by JMMC / Lafrasse, S., Bourges, L., Mella, G.-->
+        <bibcode>2012ASPC..461..379L</bibcode>
+        <!--Accompanying optical interferometry worldwide: the JMMC tools and services / Mella, G., Lafrasse, S., Bourgès, L., Chelli, A., Duvert, G., Chesneau, O., Malbet, F., Tallon-Bosc, I., Vannier, M., Absil, O., Benisty, M., Berger, J. -P., Beust, H., Bonneau, D., Cruzalebes, P., Delfosse, X., Domiciano de Souza, A., Kervella, P., Kluska, J., Le Bouquin, J. -B., Meimon, S., Merand, A., Millour, F., Monin, J. -L., Mourard, D., Mugnier, L., Nardetto, N., Perraut, K., Tallon, M.-->
+        <bibcode>2012SPIE.8445E..3FM</bibcode>
+    </group>
+    
+    <all>
+</all>
+
+</jmmc>
