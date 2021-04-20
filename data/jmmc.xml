@@ -55,7 +55,7 @@
     <group tag="oidb">
         <description>list of JMMC authored publications associated to oidb</description>
         <!--A global database for optical interferometry-->
-<bibcode>2014SPIE.9146E..0OH</bibcode>
+        <bibcode>2014SPIE.9146E..0OH</bibcode>
         <!--First year report of the Optical Interferometry DataBase / Haubois, Xavier, Mella, Guillaume, Duvert, Gilles, Le Bouquin, J. B., Bourgès, Laurent, Farrington, Chris, ten Brummelaar, Theo, Benisty, Myriam, Mourard, Denis-->
         <bibcode>2016SPIE.9907E..3VH</bibcode>
         <!--What would be gained by implementing a DMP on the OIDB service already in production since 2015? Never too late for the DMP?-->
@@ -63,6 +63,11 @@
     </group>
     <group tag="OIFitsExplorer">
         <description>list of JMMC authored publications associated to OIFitsExplorer</description>
+    </group>
+    <group tag="OImaging">
+        <description>list of JMMC authored publications associated to OIMaging</description>
+        <!--Why chromatic imaging matters-->
+        <bibcode>2018ExA....46..457S</bibcode>
     </group>
     <group tag="PNDRS">
         <description>list of JMMC authored publications associated to PNDRS</description>
@@ -100,14 +105,21 @@
     </group>
     
     
-    <group tag="tbd">
+    <group tag="toolslabeltbd">
         <description>Publications to clean and sort out of any JMMC product.</description>
         <!--SAMP App Launcher: An On-Demand VO Application Starter by JMMC / Lafrasse, S., Bourges, L., Mella, G.-->
         <bibcode>2012ASPC..461..379L</bibcode>
         <!--Accompanying optical interferometry worldwide: the JMMC tools and services / Mella, G., Lafrasse, S., Bourgès, L., Chelli, A., Duvert, G., Chesneau, O., Malbet, F., Tallon-Bosc, I., Vannier, M., Absil, O., Benisty, M., Berger, J. -P., Beust, H., Bonneau, D., Cruzalebes, P., Delfosse, X., Domiciano de Souza, A., Kervella, P., Kluska, J., Le Bouquin, J. -B., Meimon, S., Merand, A., Millour, F., Monin, J. -L., Mourard, D., Mugnier, L., Nardetto, N., Perraut, K., Tallon, M.-->
         <bibcode>2012SPIE.8445E..3FM</bibcode>
+         <!-- OIFITS 2: the 2nd version of the data exchange standard for optical interferometry    Duvert, Gilles; Young, John; Hummel, Christian A. -->
+        <bibcode>2017A&amp;A...597A...8D</bibcode>
     </group>
     
+    <!--
+    <group tag="Others">
+        <description>Publication out of specific JMMC products.</description>
+    </group>
+    -->
     <all>
 </all>
 
