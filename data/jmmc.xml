@@ -16,6 +16,7 @@
     </group>
     <group tag="Aspro">
         <description>list of JMMC authored publications associated to Aspro</description>
+        <tag>Aspro2</tag>
         <!--A new GUI system for ASPRO-->
         <bibcode>2004SPIE.5496..582M</bibcode>
         <!--ASPRO-VLTI: a JMMC software dedicated to the preparation of VLTI observations-->
@@ -103,6 +104,9 @@
         <bibcode>2011MNRAS.414..108B</bibcode>
         
     </group>
+    <group tag="SearchFTT">
+        <description>list of JMMC authored publications associated to SearchFTT</description>
+    </group>
     <group tag="SUV">
         <description>list of JMMC authored publications associated to SUV</description>
     </group>
@@ -110,7 +114,7 @@
         <description>list of JMMC authored publications associated to Wisard</description>
     </group>
     
-    <group tag="JMMC">
+    <group tag="toolslabeltbd"> <!-- JMMC label replaced so we skip this tbd group -->
         <description>Publications to clean and sort out of any JMMC product.</description>
         <!--SAMP App Launcher: An On-Demand VO Application Starter by JMMC / Lafrasse, S., Bourges, L., Mella, G.-->
         <bibcode>2012ASPC..461..379L</bibcode>
