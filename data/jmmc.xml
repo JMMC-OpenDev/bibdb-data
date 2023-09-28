@@ -16,7 +16,7 @@
     </group>
     <group tag="Aspro">
         <description>list of JMMC authored publications associated to Aspro</description>
-        <tag>Aspro2</tag>
+        <q>Aspro2</q>
         <!--A new GUI system for ASPRO-->
         <bibcode>2004SPIE.5496..582M</bibcode>
         <!--ASPRO-VLTI: a JMMC software dedicated to the preparation of VLTI observations-->
@@ -88,6 +88,7 @@
         <description>list of JMMC authored publications associated to OIMaging</description>
         <!--Why chromatic imaging matters-->
         <bibcode>2018ExA....46..457S</bibcode>
+        <bibcode>2022SPIE12183E..1HS</bibcode>
     </group>
     <group tag="PNDRS">
         <description>list of JMMC authored publications associated to PNDRS</description>
